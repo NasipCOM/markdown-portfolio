@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+https://ocs.iaau.edu.kg/mod/assign/view.php?id=7235
