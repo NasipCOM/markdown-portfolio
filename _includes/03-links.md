@@ -1,2 +1,2 @@
 https://ocs.iaau.edu.kg/mod/assign/view.php?id=7235
-https://example.com
+[text](https://example.com)
